@@ -8,6 +8,7 @@ Control de Usuarios y Permisos: La aplicación cuenta con un sistema de usuarios
 
 Estas son solo algunas de las funcionalidades que encontrarás en esta completa aplicación de gestión para restaurantes y bares. Con su interfaz intuitiva y amigable, podrás optimizar tus procesos, mejorar la eficiencia operativa y brindar un mejor servicio a tus clientes. ¡Descubre todas las ventajas que esta aplicación puede ofrecerte para potenciar tu negocio!
 
+*index.php* es le archivo principal de los camareros, *indexadmin.php* es el archivo principal de los administradores y *cocina.php* es el archivo principal de los cocineros.
 
 INSTRUCCIONES
 
