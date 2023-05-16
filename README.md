@@ -1,4 +1,4 @@
-La aplicación que te presento es una completa solución para la gestión de tareas básicas en un restaurante o bar. Con esta aplicación, podrás llevar a cabo diversas acciones que te permitirán agilizar y organizar las operaciones diarias de tu negocio. A continuación, te detallo algunas de las características principales:
+La aplicación que se presenta es una completa solución para la gestión de tareas básicas en un restaurante o bar. Con esta aplicación, se podrá llevar a cabo diversas acciones que permitirán agilizar y organizar las operaciones diarias de un negocio. A continuación, se detallan algunas de las características principales:
 
 Gestión de Pedidos: La aplicación te permite crear y gestionar pedidos de forma eficiente. Podrás ingresar los detalles de cada pedido, como la mesa, los productos solicitados, la cantidad, entre otros. Además, podrás visualizar los pedidos pendientes, en preparación o ya servidos, lo que te ayudará a mantener un control preciso sobre el estado de cada pedido.
 
