@@ -10,6 +10,7 @@ Estas son solo algunas de las funcionalidades que encontrarás en esta completa 
 
 
 INSTRUCCIONES
+
 Requisitos previos:
 
 Asegúrate de tener instalado un servidor web local con soporte para PHP y MySQL, como XAMPP, WAMP o MAMP, según tu sistema operativo.
