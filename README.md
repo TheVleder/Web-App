@@ -19,7 +19,7 @@ También necesitarás tener PHPMyAdmin u otro software de gestión de bases de d
 
 Descarga y configuración:
 Descarga los archivos de la aplicación desde el repositorio o sitio web correspondiente.
-Descomprime los archivos en el directorio raíz de tu servidor web local o, si deseas utilizar un hosting, sube los archivos a tu cuenta de hosting.
+Descomprime los archivos en el directorio raíz de tu servidor web local o, si deseas utilizar un hosting, sube los archivos a tu cuenta de hosting. Es recomendable situarlo en la carpeta "www" para hacer una prueba previa al despliegue.
 
 Creación de la base de datos:
 Abre PHPMyAdmin en tu navegador web.
